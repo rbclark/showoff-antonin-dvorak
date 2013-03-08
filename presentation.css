@@ -1,0 +1,32 @@
+a:link {color:#37c855;}      /* unvisited link */
+a:visited {color:#00FF00;}  /* visited link */
+a:hover {color:#fff;}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+#preso, .slide {
+    background-image: url('music-background.jpg');
+    color:white;
+}
+.content {
+    background-color: rgba(0,0,0,.5);
+    border-radius: 15px;
+    margin: 30px 30px 30px 30px;
+    padding: 1px 0 10px 0;
+}
+.content h2 {
+    font-size:4em;
+}
+.bullets ul li {
+    text-align: left;
+    padding: 8px;
+    font-size:33px;
+}
+.smbullets ul li {
+    text-align: left;
+}
+#footer {
+    display:none !important;
+}
+img {
+    box-shadow: 2px 2px 15px 1px #000;
+}
