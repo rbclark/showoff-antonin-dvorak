@@ -16,6 +16,9 @@ a:active {color:#0000FF;}  /* selected link */
 .content h2 {
     font-size:4em;
 }
+.centervideo {
+	text-align:center;
+}
 .bullets ul li {
     text-align: left;
     padding: 8px;
@@ -29,4 +32,11 @@ a:active {color:#0000FF;}  /* selected link */
 }
 img {
     box-shadow: 2px 2px 15px 1px #000;
+}
+.img-right {
+	float:right; 
+	padding:0 5px 0 5px;
+}
+.no-shadow img {
+	    box-shadow:none;
 }
