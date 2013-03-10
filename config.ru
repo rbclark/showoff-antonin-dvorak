@@ -1,5 +1,5 @@
 require "showoff"
-require "showoff/pusher"
+require "altum"
 
-use ShowOff::Pusher
+use Altum, :pusher_url => ENV['PUSHER_URL'], :key => ENV['SHOWOFF_SECRET']
 run ShowOff.new
