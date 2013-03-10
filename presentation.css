@@ -10,8 +10,10 @@ a:active {color:#0000FF;}  /* selected link */
 .content {
     background-color: rgba(0,0,0,.5);
     border-radius: 15px;
-    margin: 30px 30px 30px 30px;
+    margin-left:30px;
+    margin-right:30px;
     padding: 1px 0 10px 0;
+    vertical-align:middle;
 }
 .content h2 {
     font-size:4em;
@@ -39,4 +41,7 @@ img {
 }
 .no-shadow img {
 	    box-shadow:none;
+}
+.fixed-top {
+        margin-top: 0px !important;
 }
