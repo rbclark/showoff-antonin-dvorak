@@ -6,7 +6,7 @@
 ## Early Life
 
 * Born September 8, 1841, in Nelahozeves, a previously Bohemian village
-* ![Map](nelahozeves.png)
+* <img src="nelahozeves.png" height="281" />
 * His father was an amateur musician.
 * He played violin in his father's inn often during his early life.
 * Was encouraged by his mother and father along the way.
@@ -16,7 +16,7 @@
 
 !SLIDE bullets incremental transition=fadeZoom
 ## Prague Organ School
-* <div class="img-right">![Organ](organ.jpg)</div>
+* <div class="img-right"><img src="organ.jpg" height="346" /></div>
 * At the age of 16, it was suggested by a music teacher that Dvořák enroll in organ school in Prague.
 * His family was supportive and his father helped him to enroll.
 * He completed his 2 years at the school, finishing without financial support from his father.
@@ -25,7 +25,7 @@
 
 !SLIDE bullets incremental transition=toss
 ## Life after School
-* <div class="img-right no-shadow">![Dvorak Graduates](dvorak-graduation.png)</div>
+* <div class="img-right no-shadow"><img src="dvorak-graduation.png" height="341" /></div>
 * During the 1860's, Dvořák played viola in the Bohemian Provisional Theatre Orchestra.
 * During this time he was hard pressed for time to compose.
 * He later claimed to have very little memory of the 1860s.
@@ -40,7 +40,7 @@
 
 !SLIDE bullets incremental transition=zoom
 ## Financial Assistance
-* <div class="img-right no-shadow">![Johannes Brahms](JohannesBrahms.jpg)</div>
+* <div class="img-right"><img src="JohannesBrahms.jpg" height="290" /></div>
 * In 1874, the year after he married his wife and former student, Anna, Dvořák applied and received a state grant from the Austrian Government.
 * The grant also brought him the attention of Johannes Brahms.
 * The grant eased his financial burden, and the attention of Johannes Brahms, who persuaded his publisher to bring on Dvořák.
@@ -48,7 +48,7 @@
 
 !SLIDE bullets incremental transition=growX
 ## A composer + a Professor
-* <div class="img-right">![Prague Conservatory](prague-conservatory.jpg)</div>
+* <div class="img-right"><img src="prague-conservatory.jpg" height="244" /></div>
 * In 1889, Dvořák was hired as a professor at the Prague conservatory.
 * He would only allow students with a polished technique into his class.
 * He also insisted that his students "find their own way".
@@ -56,7 +56,7 @@
 
 !SLIDE bullets incremental transition=shuffle
 ## Promotion!
-* <div class="img-right">![NYC Conservatory](nyc-conservatory.jpg)</div>
+* <div class="img-right"><img src="nyc-conservatory.jpg" height="350" /></div>
 * In 1892, Dvořák was offered the position of Director of the National Conservatory in NYC.
 * He accepted, and moved his wife and six children to America.
 * During this time he was commissioned to write his 9th symphony called "From the New World".
@@ -68,7 +68,7 @@
 
 !SLIDE bullets incremental transition=turnDown
 ## Final Years
-* <div class="img-right">![Dvorak Funeral](dvorak-funeral-march.jpg)</div>
+* <div class="img-right"><img src="dvorak-funeral-march.jpg" height="244" /></div>
 * After his return from the US, Dvořák did his best to keep his return quiet.
 * He became the director of the Prague Conservatory after his return.
 * He held his position as director until his death.
