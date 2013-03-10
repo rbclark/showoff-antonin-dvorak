@@ -61,7 +61,7 @@ if (sekret) {
     if (window.console && window.console.log) window.console.log(message);
   };
 
-  new Pusher('06d2e0409a41c6e5a7d4')
+  new Pusher('3162e05ae7c7f0834056')
     .subscribe('presenter')
     .bind('slide_change', function(data) {
       gotoSlide(data.slide);
