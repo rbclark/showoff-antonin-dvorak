@@ -2,8 +2,6 @@
 # Antonín Dvořák
 ### By: Robert Clark
 
-<script src="http://js.pusherapp.com/1.9/pusher.min.js"></script>
-<script src="/javascripts/pusher.js"></script>
 !SLIDE bullets incremental left transition=fade
 ## Early Life
 
