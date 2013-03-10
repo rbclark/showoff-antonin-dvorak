@@ -2,7 +2,7 @@
 # Antonín Dvořák
 ### By: Robert Clark
 
-!SLIDE bullets incremental left transition=fade
+!SLIDE bullets left transition=fade
 ## Early Life
 
 * Born September 8, 1841, in Nelahozeves, a previously Bohemian village
@@ -14,7 +14,7 @@
 .notes Nelahozeves is now a Czech Village
 .notes He would play violin with other performers while local couples danced.
 
-!SLIDE bullets incremental transition=fadeZoom
+!SLIDE bullets transition=fadeZoom
 ## Prague Organ School
 * <div class="img-right"><img src="organ.jpg" height="346" /></div>
 * At the age of 16, it was suggested by a music teacher that Dvořák enroll in organ school in Prague.
@@ -23,7 +23,7 @@
 * During his time he provided private piano lessons.
 * One of his students during this time later became his wife.
 
-!SLIDE bullets incremental transition=toss
+!SLIDE bullets transition=toss
 ## Life after School
 * <div class="img-right no-shadow"><img src="dvorak-graduation.png" height="341" /></div>
 * During the 1860's, Dvořák played viola in the Bohemian Provisional Theatre Orchestra.
@@ -38,7 +38,7 @@
 <div class="centervideo"><iframe width="560" height="315" src="http://www.youtube.com/embed/RxnBzRpqhZU#t=01s" frameborder="0" allowfullscreen></iframe></div>
 .notes This was his first symphony which he originally believed was lost.
 
-!SLIDE bullets incremental transition=zoom
+!SLIDE bullets transition=zoom
 ## Financial Assistance
 * <div class="img-right"><img src="JohannesBrahms.jpg" height="290" /></div>
 * In 1874, the year after he married his wife and former student, Anna, Dvořák applied and received a state grant from the Austrian Government.
@@ -46,7 +46,7 @@
 * The grant eased his financial burden, and the attention of Johannes Brahms, who persuaded his publisher to bring on Dvořák.
 * He also became good friends with Johannes Brahms in the process.
 
-!SLIDE bullets incremental transition=growX
+!SLIDE bullets transition=growX
 ## A composer + a Professor
 * <div class="img-right"><img src="prague-conservatory.jpg" height="244" /></div>
 * In 1889, Dvořák was hired as a professor at the Prague conservatory.
@@ -54,7 +54,7 @@
 * He also insisted that his students "find their own way".
 * His star pupil was his son-in-law, Josef Suk.
 
-!SLIDE bullets incremental transition=shuffle
+!SLIDE bullets transition=shuffle
 ## Promotion!
 * <div class="img-right"><img src="nyc-conservatory.jpg" height="350" /></div>
 * In 1892, Dvořák was offered the position of Director of the National Conservatory in NYC.
@@ -66,7 +66,7 @@
 .notes He was expected to pave the way for an "American" music style with his works in America.
 .notes His new position paid $15,000 dollars a year.
 
-!SLIDE bullets incremental transition=turnDown
+!SLIDE bullets transition=turnDown
 ## Final Years
 * <div class="img-right"><img src="dvorak-funeral-march.jpg" height="244" /></div>
 * After his return from the US, Dvořák did his best to keep his return quiet.
