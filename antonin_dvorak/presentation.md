@@ -22,6 +22,8 @@
 * During his time he provided private piano lessons.
 * One of his students during this time later became his wife.
 
+.notes He originally fell in love with Anna's sister, Josefina Čermáková, and also supposedly composed a song cycle named "Cypress Trees" about her. Since she did not return his love he ended up marrying her younger sister.
+
 !SLIDE bullets transition=toss
 ## Life after School
 * <div class="img-right no-shadow"><img src="dvorak-graduation.png" height="341" /></div>
