@@ -1,7 +1,7 @@
 !SLIDE
 # Antonín Dvořák
 ### By: Robert Clark
-
+.notes A Czech composer during the romantic period.
 !SLIDE bullets left transition=fade
 ## Early Life
 
@@ -11,8 +11,7 @@
 * He played violin in his father's inn often during his early life.
 * Was encouraged by his mother and father along the way.
 
-.notes Nelahozeves is now a Czech Village
-.notes He would play violin with other performers while local couples danced.
+.notes Nelahozeves is now a Czech Village. He would play violin with other performers while local couples danced.
 
 !SLIDE bullets transition=fadeZoom
 ## Prague Organ School
@@ -36,7 +35,7 @@
 !SLIDE transition=turnDown
 ## The Bells of Zlonice
 <div class="centervideo"><iframe width="560" height="315" src="http://www.youtube.com/embed/RxnBzRpqhZU#t=01s" frameborder="0" allowfullscreen></iframe></div>
-.notes This was his first symphony which he originally believed was lost.
+.notes This was his first symphony which he originally believed was lost in a fire. Later was found after his death. It was lost shortly after composition so it was never played until after he died. When asked by his students what he did after he found out it was lost, he simply replied "I sat down and wrote another".
 
 !SLIDE bullets transition=zoom
 ## Financial Assistance
@@ -63,14 +62,13 @@
 * He called it his 5th in order to avoid superstition, but it was still the last syphony he wrote.
 * After much homesickness he decided to move away from America in 1895.
 
-.notes He was expected to pave the way for an "American" music style with his works in America.
-.notes His new position paid $15,000 dollars a year.
+.notes He was expected to pave the way for an "American" music style with his works in America. His new position paid $15,000 dollars a year.
 
 !SLIDE bullets transition=turnDown
 ## Final Years
 * <div class="img-right"><img src="dvorak-funeral-march.jpg" height="244" /></div>
-* After his return from the US, Dvořák did his best to keep his return quiet.
-* He became the director of the Prague Conservatory after his return.
+* After his return to Prague, Dvořák did his best to keep his return quiet.
+* He became the director of the Prague Conservatory, the school which he had previously taught at, after his return.
 * He held his position as director until his death.
 * On May 1st, 1904, Dvořák died of a stroke at the age of 63.
 * His death caused many of his works to go unfinished.
