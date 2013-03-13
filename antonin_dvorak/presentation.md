@@ -47,6 +47,8 @@
 * The grant eased his financial burden, and the attention of Johannes Brahms, who persuaded his publisher to bring on Dvořák.
 * He also became good friends with Johannes Brahms in the process.
 
+.notes Johannes Brahms referred Dvořák to his publisher, Fritz Simrock who published Moravian Duets and eventually additional pieces by Dvořák.
+
 !SLIDE bullets transition=growX
 ## A composer + a Professor
 * <div class="img-right"><img src="prague-conservatory.jpg" height="244" /></div>
