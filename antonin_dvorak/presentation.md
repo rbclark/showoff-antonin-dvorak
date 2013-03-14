@@ -49,6 +49,10 @@
 
 .notes Johannes Brahms referred Dvořák to his publisher, Fritz Simrock who published Moravian Duets and eventually additional pieces by Dvořák.
 
+!SLIDE transition=popUp
+## Moravian Duets
+<div class="centervideo"><iframe width="560" height="420" src="http://www.youtube.com/embed/gjIujji_K2Y#t=02s" frameborder="0" allowfullscreen></iframe></div>
+
 !SLIDE bullets transition=growX
 ## A composer + a Professor
 * <div class="img-right"><img src="prague-conservatory.jpg" height="244" /></div>
